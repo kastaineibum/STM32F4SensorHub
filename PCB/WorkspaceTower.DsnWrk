@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=ProjectTower1.PrjPCB
+[Project2]
+ProjectPath=ProjectTower2.PrjPCB
+[Project3]
+ProjectPath=ProjectTower3.PrjPCB
+[Project4]
+ProjectPath=ProjectTower4.PrjPcb
