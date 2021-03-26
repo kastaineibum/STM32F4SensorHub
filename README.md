@@ -1,0 +1,2 @@
+# STM32F4SensorHub
+基于STM32F407的SensorHub，集成了各种常见传感器和FreeRTOS，从STM32CubeMX构建扩充
