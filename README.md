@@ -1,6 +1,6 @@
 # STM32F4SensorHub
 因更多的使用其他系列的MCU，本项目已于2022年终止维护。
-基于STM32F407的SensorHub，集成了各种常见传感器和FreeRTOS，从STM32CubeMX构建扩充。同时提供完全开源的原理图和PCB板图，可联系栗子树科技 https://3mn.net
+基于STM32F407的SensorHub，集成了各种常见传感器和FreeRTOS，从STM32CubeMX构建扩充。同时提供完全开源的原理图和PCB板图，可联系栗子树科技 http://3mn.net
 
 ## 博世气压温度传感器BMP280
 bm280.c
